@@ -1,21 +1,11 @@
 # Aide Lua
-[![QQ](https://img.shields.io/badge/Join-QQ_Group-ff69b4)](https://jq.qq.com/?_wv=1027&k=41q8mp8y)
-![icon](https://gitee.com/Jesse205/AideLua/raw/master/ic_cover-aidelua.png)
+![icon](https://github.com/HongHae-in/AideLua/blob/9f4c682854f3d72cfb7e879fd2a9695f71e88726/ic_cover-aidelua.png)
 
 ## 简介
 Aide Lua 是一款依赖 Aide 的 Lua 编辑器
 
 ## 下载
-[〖Aide 高级设置版〗](https://www.lanzouy.com/b00zdhbeb)
-
-1. [Gitee下载(推荐，快速下载)](https://gitee.com/Jesse205/AideLua/releases)
-
-2. [天翼云盘(可能更新不及时)](https://cloud.189.cn/t/ZZ7RzijyqiUv)
-
-3. [腾讯微云(可能更新不及时)](https://share.weiyun.com/oLiNtxMR)
-
-4. [百度网盘(可能今天下不完)](https://pan.baidu.com/s/1j1RwisPR8iq1fPS3O_fl7Q)，密码jxnb
-
+[![Download the app](https://img.shields.io/github/v/release/HongHae-in/AideLua?label=Download%20app&color=2563eb)](https://github.com/HongHae-in/AideLua/releases/latest)
 ## 使用须知
 1. 本软件默认开启自动保存代码且无法关闭（自动保存触发条件：切换到其他应用、点击二次打包以及打包运行、打开其他文件、关闭文件、打开侧滑（大屏除外）、点击标签栏等）
 
@@ -24,7 +14,7 @@ Aide Lua 是一款依赖 Aide 的 Lua 编辑器
 3. 此软件必须搭配编译器，不管你用的是真正的Gradle还是仿Gradle（AIDE属于仿Gradle）
 
 ## 使用教程
-[视频教程](https://b23.tv/nvVHoa)
+
 
 ### 一、配置AIDE
   1. 进入“设置-高级设置-工程相关”
@@ -50,8 +40,6 @@ Aide Lua 是一款依赖 Aide 的 Lua 编辑器
 3. AIDE最好关闭adrt调试文件
 
 4. 不是必须用AIDE编译，只不过用AIDE编译会更好一些
-
-## [引用的开源](https://gitee.com/Jesse205/AideLua/blob/master/app/src/main/luaLibs/openSourceLicenses.aly)
 
 ## 高级玩法
 .aidelua/config.lua用法
